@@ -2,9 +2,6 @@
 
 This project explores and analyzes NYC Yellow Taxi data to uncover patterns, inefficiencies, and opportunities for optimizing taxi operations in New York City.
 
-🔗 **Live GitHub Repository**  
-👉 [EDA_Optimising_NYC_Taxis_Jyoti_Mitkar](https://github.com/jyotipatil2505/EDA_Optimising_NYC_Taxis_Jyoti_Mitkar)
-
 ---
 
 ## 📌 Objective
@@ -61,15 +58,6 @@ To identify trends, peak demand zones, pricing inefficiencies, and passenger beh
 
 ---
 
-## 🧠 Recommendations
-
-- **AI-driven Dispatching**: Allocate cabs dynamically based on real-time demand
-- **Zone-Based Fleet Strategy**: Prioritize busy pickup zones using heatmaps
-- **Dynamic Pricing**: Adjust fares based on trip distance and peak hours
-- **Promote Shared Rides**: Reduce costs and increase efficiency
-- **Event-Aware Supply Adjustment**: Scale fleet based on weather/events
-
----
 
 ## 📍 Visual Highlights
 
@@ -100,10 +88,46 @@ Follow the steps below to set up and run the project locally:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/jyotipatil2505/EDA_Optimising_NYC_Taxis_Jyoti_Mitkar.git
-cd EDA_Optimising_NYC_Taxis_Jyoti_Mitkar
+cd EDA_Optimising_NYC_Taxis
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Launch the notebook
 jupyter notebook EDA_Optimising_NYC_Taxis/EDA_Assg_NYC_Taxi_Starter.ipynb
+
+```
+
+---
+
+
+## 📘 Report Overview
+This repository contains the case study report on NYC Taxi Operations, authored by **Jyoti Mitkar**. It includes an in-depth analysis of taxi trends, operational metrics, and data-driven insights.
+
+📄 **Download the Full Case Study Report (PDF):**  
+[🔗 Report_NYC_Taxi_Operations_Starter.pdf](./Report_NYC_Taxi_Operations_Starter.pdf)
+
+
+---
+
+## 🙋‍♀️ Author
+
+**Jyoti Patil**  
+_Data Science Enthusiast | Urban Mobility Analytics_
+
+### 🌐 Connect With Me
+- [💼 LinkedIn](https://www.linkedin.com/in/jyoti-patil-9808067a/)  
+- [💻 GitHub](https://github.com/jyotipatil2505)
+
+---
+
+## 💬 Feedback & Contributions
+
+Feel free to:
+
+- ⭐ **Star** the repo  
+- 🍴 **Fork** it  
+- 🛠️ **Raise issues**  
+- 📥 **Submit pull requests**
+
+I welcome feedback, collaboration ideas, and contributions to improve the project!
