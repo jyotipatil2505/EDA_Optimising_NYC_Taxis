@@ -77,7 +77,6 @@ To identify trends, peak demand zones, pricing inefficiencies, and passenger beh
 - GeoPandas, Shapely
 - Jupyter Notebook
 - Parquet + pyarrow
-- Git & GitHub
 
 ---
 
