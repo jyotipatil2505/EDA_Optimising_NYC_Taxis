@@ -105,7 +105,7 @@ jupyter notebook EDA_Optimising_NYC_Taxis/EDA_Assg_NYC_Taxi_Starter.ipynb
 This repository contains the case study report on NYC Taxi Operations, authored by **Jyoti Mitkar**. It includes an in-depth analysis of taxi trends, operational metrics, and data-driven insights.
 
 📄 **Download the Full Case Study Report (PDF):**  
-[🔗 Report_NYC_Taxi_Operations_Starter.pdf](./Report_NYC_Taxi_Operations_Starter.pdf)
+[🔗 Report_NYC_Taxi_Operations_Starter.pdf](https://github.com/jyotipatil2505/EDA_Optimising_NYC_Taxis/blob/main/EDA_Optimising_NYC_Taxis/Report_NYC_Taxi_Operations_Starter.pdf)
 
 
 ---
